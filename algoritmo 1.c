@@ -26,4 +26,7 @@ int main()
     }
 
     printf ("\n %s, o seu salario passou de %f para %f", nome,salarioantigo,salario);
+    if (idade>5) && (idade<7){
+        printf("\n Funcionario muito novo!!");
+    }
 }
