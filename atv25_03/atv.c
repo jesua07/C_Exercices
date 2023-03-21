@@ -1,9 +1,10 @@
 #include <stdio.h>
 
+//Carlos Henrique Nobrega da Silva e Jesua Isaque Calefi da Silva
 int main(void){
       int n, k, nk, operacao, permutacao, arranjo, combinacao, fatN, fatK, fatNK;
   
-  printf ("MENU\n");
+  printf ("MENU do Carlos e do Jesua\n");
   printf ("1. Permutacao Simples\n");
   printf ("2. Arranjo Simples\n");
   printf ("3. Combinacao Simples\n");
